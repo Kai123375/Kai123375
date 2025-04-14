@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kai123375
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding on rasberry pi
-- 💞️ I’m looking to collaborate on other rasberry pi projects
+- 🌱 I’m currently learning coding an plant app
+- 💞️ I’m looking to collaborate on other python based projects
   
 
 <!---
