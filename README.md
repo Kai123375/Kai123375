@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kai123375
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding an plant app
+- 🌱 I’m currently learning coding a app that helps blind people learn math
 - 💞️ I’m looking to collaborate on other python based projects
   
 
